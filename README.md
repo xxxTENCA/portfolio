@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Januor%20Studios&fontSize=70&fontAlignY=38&animation=twinkling" width="100%" />
 
-# 🌌 Project Name 
+# 🌌 Portfolio 
 
 **Connecting complex systems with elegant web interfaces that work flawlessly on every screen.**
 
