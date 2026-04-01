@@ -49,11 +49,7 @@ Follow the steps below to run the project on your local machine:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
+git clone https://github.com/xxxTENCA/portfolio.git
 
 # 2. Navigate into the directory
-cd project-name
-
-# 3. Install required packages and start the project
-npm install && npm start
-# (or just open the index.html file with Live Server)
+cd portfolio
