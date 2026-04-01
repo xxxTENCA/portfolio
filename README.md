@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Januor%20Studios&fontSize=70&fontAlignY=38&animation=twinkling" width="100%" />
 
-# 🌌 Proje Adı 
+# 🌌 Project Name 
 
-**Karmaşık sistemleri, her ekranda kusursuz çalışan zarif web arayüzleriyle buluşturuyoruz.**
+**Connecting complex systems with elegant web interfaces that work flawlessly on every screen.**
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -19,37 +19,41 @@
 
 ---
 
-## 📜 Vizyon
+## 📜 Vision
 
-> *"Geliştirdiğimiz her satır kod, sadece arka planda güçlü çalışmakla kalmamalı; aynı zamanda her cihazda mükemmel görünmeli ve kusursuz bir kullanıcı deneyimi sunmalıdır."*
+> *"Every line of code we develop must not only perform powerfully in the background but also look perfect on any device and provide a flawless user experience."*
 
-Bu depo, [Projenin temel amacı - Örn: oyun mekaniklerini yöneten gelişmiş bir web portalı] için oluşturulmuş yenilikçi bir altyapıyı barındırır. Arka planda yüksek performanslı diller (C++, Python) görev yaparken, ön yüzde modern web standartlarına uygun, esnek ve estetik bir arayüz kullanıcıyı karşılar.
-
-<br>
-
-## ✨ Öne Çıkan Özellikler
-
-- 📱 **Tam Duyarlı (Responsive) Tasarım:** Masaüstü, tablet ve mobil cihazlara dinamik olarak adapte olan, esnek (Flexbox/Grid tabanlı) akıcı arayüzler.
-- 🎨 **Modern UI/UX ve "Dark Mode":** Göz yormayan karanlık tema odaklı, HTML/CSS ve JS animasyonlarıyla zenginleştirilmiş kullanıcı deneyimi.
-- ⚡ **Yüksek Performans:** Optimize edilmiş DOM yapısı ve güçlü backend algoritmaları sayesinde anında tepki süresi.
-- 🧩 **Çapraz Platform Modülerliği:** Oyun motoru projeleri (Unreal) ile web tabanlı yönetim panellerinin birbiriyle sorunsuz haberleşebildiği genişletilebilir ekosistem.
+This repository hosts an innovative infrastructure built for [Core purpose of the project - e.g., an advanced web portal managing game mechanics]. While high-performance languages (C++, Python) operate in the background, a flexible and aesthetic interface conforming to modern web standards welcomes the user on the frontend.
 
 <br>
 
-## 🚀 Hızlı Başlangıç
+## ✨ Key Features
 
-Projeyi lokal bilgisayarınızda ayağa kaldırmak için aşağıdaki adımları takip edebilirsiniz:
+- 📱 **Fully Responsive Design:** Fluid interfaces (Flexbox/Grid based) that dynamically adapt to desktop, tablet, and mobile devices.
+- 🎨 **Modern UI/UX and "Dark Mode":** A user experience focused on an eye-friendly dark theme, enriched with HTML/CSS and JS animations.
+- ⚡ **High Performance:** Instant response times thanks to an optimized DOM structure and powerful backend algorithms.
+- 🧩 **Cross-Platform Modularity:** An extensible ecosystem where game engine projects (Unreal) and web-based management panels communicate seamlessly with each other.
 
-### Ön Koşullar
+<br>
+
+## 🚀 Quick Start
+
+Follow the steps below to run the project on your local machine:
+
+### Prerequisites
 - Git
-- Modern bir Web Tarayıcısı
-- [Node.js / Python / C++ Derleyicisi vb.]
+- A Modern Web Browser
+- [Node.js / Python / C++ Compiler etc.]
 
-### Kurulum
+### Installation
 
 ```bash
-# 1. Depoyu klonla
-git clone https://github.com/xxxTENCA/portfolio.git
+# 1. Clone the repository
+git clone [https://github.com/username/project-name.git](https://github.com/username/project-name.git)
 
-# 2. Dizin içine gir
-cd proje-adi
+# 2. Navigate into the directory
+cd project-name
+
+# 3. Install required packages and start the project
+npm install && npm start
+# (or just open the index.html file with Live Server)
