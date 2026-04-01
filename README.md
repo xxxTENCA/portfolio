@@ -43,7 +43,6 @@ Follow the steps below to run the project on your local machine:
 ### Prerequisites
 - Git
 - A Modern Web Browser
-- [Node.js / Python / C++ Compiler etc.]
 
 ### Installation
 
