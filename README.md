@@ -30,7 +30,7 @@ This repository hosts an innovative infrastructure built for [Core purpose of th
 ## ✨ Key Features
 
 - 📱 **Fully Responsive Design:** Fluid interfaces (Flexbox/Grid based) that dynamically adapt to desktop, tablet, and mobile devices.
-- 🎨 **Modern UI/UX :** enriched with HTML/CSS and JS animations.
+- 🎨 **Modern UI/UX :** Enriched with HTML/CSS and JS animations.
 - ⚡ **High Performance:** Instant response times thanks to an optimized DOM structure and powerful backend algorithms.
 - 🧩 **Cross-Platform Modularity:** An extensible ecosystem where game engine projects (Unreal) and web-based management panels communicate seamlessly with each other.
 
